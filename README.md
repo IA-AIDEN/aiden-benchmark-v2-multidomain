@@ -400,8 +400,9 @@ A real SHA-256 cryptographic hash was generated from the raw benchmark outputs t
 
 ### Validation Method
 
-bash
+```bash
 SHA-256(raw_outputs) → immutable verification fingerprint
+```
 
 This process provides an additional integrity layer commonly used in professional benchmarking, cybersecurity, and digital evidence verification workflows.
 
