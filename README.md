@@ -155,11 +155,8 @@ A total of **18 benchmark tests** were executed across multiple technical and co
 ## Score Distribution
 
 P1  ████████░░ 4
-
 P2  ██████████ 5
-
 P3  ████████░░ 4
-
 P4  ████████░░ 4
 
 P5  ██████████ 5
