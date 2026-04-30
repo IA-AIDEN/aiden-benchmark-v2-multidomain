@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/aiden_logo.png" width="350">
+  <img src="assets/aiden-logo.png" width="350">
 </p>
 
 <h1 align="center">
@@ -119,7 +119,7 @@ This methodology prioritizes **authentic system behavior over synthetic benchmar
 ## 📊 Benchmark Visualization
 
 <p align="center">
-  <img src="assets/benchmark_v2_chart.png" width="100%">
+  <img src="assets/Benchmark-Knowledge-v2.png" width="100%">
 </p>
 
 ### Key Metrics
@@ -191,7 +191,7 @@ P17 ██████████ 5
 P18 ██████████ 5
 
 <p align="center">
-  <img src="assets/benchmark_v2_chart_api_score.png" width="100%">
+  <img src="assets/Benchmark-reasoning-v2" width="100%">
 </p>
 
 ---
@@ -368,7 +368,7 @@ The system demonstrates:
 - Stable multidomain performance
 
 <p align="center">
-  <img src="assets/benchmark_v2_chart_comparative.png" width="100%">
+  <img src="assets/Benchmark-comparative-v2" width="100%">
 </p>
 
 This benchmark validates AIDEN as a **functional multidomain AI system ready for advanced evaluation and infrastructure scaling.**
