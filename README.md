@@ -24,6 +24,18 @@ Real-world multidomain benchmark of AIDEN Core under non-optimized production co
 
 ---
 
+AIDEN Benchmark Multidomain v2.0 is the second official evaluation framework for AIDEN Core, focused on measuring performance across multiple technical and cognitive domains under real execution conditions.
+
+While Benchmark v1.0 validated foundational cognition and conversational stability, v2.0 expands the evaluation into a broader multidomain environment including logic, mathematics, physics, engineering, cybersecurity, humanities, programming, scientific reasoning, and linguistic analysis.
+
+The benchmark was conducted manually in a live production environment without artificial optimization or automated scoring systems. Every response was reviewed through qualitative human evaluation, latency tracking, and structural consistency analysis, supported by visual evidence and integrity verification methods.
+
+This benchmark was created to demonstrate AIDEN’s capacity to operate beyond basic conversation, validating its ability to reason, explain, generate code, process technical information, and maintain coherent performance across diverse knowledge areas.
+
+The results position AIDEN Core as a validated multidomain conversational AI system with strong reasoning capabilities, scalable infrastructure potential, and measurable real-world performance.
+
+---
+
 ## Key Result
 
 **API-100 Score: 90.0 / 100**  
