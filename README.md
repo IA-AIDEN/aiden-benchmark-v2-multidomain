@@ -408,6 +408,35 @@ This process provides an additional integrity layer commonly used in professiona
 
 ---
 
+# Official Links
+
+- 🌐 Official Website: https://www.jmcstudiocreativo.com/aiden-inteligencia-artificial-latina
+- 💼 JMC Studio Creativo: https://www.jmcstudiocreativo.com
+- 📫 Contact: contacto@jmcstudiocreativo.com
+
+---
+
+# Proprietary License
+
+AIDEN is proprietary technology developed by Agencia Digital JMC Studio Creativo.
+
+All rights are reserved. Commercial use, redistribution, deployment, model replication, or infrastructure integration require explicit written authorization.
+
+See the LICENSE file for additional details.
+
+---
+
+# Final Statement
+
+AIDEN represents an independent Latin American initiative focused on building scalable conversational artificial intelligence systems through real-world testing, benchmark validation, and voice-centered interaction research.
+
+The current phase prioritizes technical maturity, infrastructure scalability, and ecosystem evolution based on validated development rather than speculative claims.
+
+It is worth noting that AIDEN is, to date, a project entirely self-funded by its founder.
+
+---
+
 <p align="center">
   <b>© 2026 JMC Studio Creativo — AIDEN AI Latina from Guayaquil, Ecuador.</b>
 </p>
+
